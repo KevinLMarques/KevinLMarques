@@ -38,10 +38,10 @@
 <h3 align="left">🎓 Certificações | Certifications:</h3>
 
 <ul>
-  <li>5G Technology Fundamentals</li>
-  <li>Amazon AWS Cloud Practitioner</li>
-  <li>Google Cybersecurity Professional Certificate</li>
-  <li>LGPD (Lei Geral de Proteção de Dados)</li>
+  <li>5G Technology Fundamentals by Huawei</li>
+  <li>Amazon AWS Cloud Practitioner by amazon</li>
+  <li>Google Cybersecurity Professional Certificate by Coursera</li>
+  <li>LGPD (Lei Geral de Proteção de Dados) by Fundação Bradesco</li>
 </ul>
 
 ###
