@@ -1,5 +1,5 @@
 <h2 align="left"><b>Kevin Marques</b></h2>
-<p align="left">Front-end Developer | Web Dev | Computer Networks Technician | Cybersecurity Student 🌐</p>
+<p align="left">Front-end Developer | Web Dev | Técnico em Redes de Computadores | Graduando em ADS (Análise e Desenvolvimento de Sistemas)</p>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
