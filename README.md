@@ -55,3 +55,10 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
+
+## Projetos Relevantes
+
+Aqui estão alguns dos meus projetos mais significativos:
+
+- [Rocksaps](https://github.com/KevinLMarques/Rocksaps) — Um site fictício de bandas de Rock.
+
