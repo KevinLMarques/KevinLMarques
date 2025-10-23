@@ -1,6 +1,6 @@
 <h2 align="left">Olá 👋! Meu nome é Kevin Marques e sou Desenvolvedor Front-end, Web Dev, Técnico em Redes de Computadores e Estudante de Cibersegurança 🇧🇷</h2>
 
-<h2 align="left">Hi 👋! My name is Kevin Marques and I'm a Front-end Developer, Web Dev, Computer Networks Technician and Cybersecurity Student 🇺🇸</h2>
+<h2 align="left">Hi 👋! My name is Kevin Marques and I'm a Front-end Developer, Web Dev, Computer Networks Technician, and Cybersecurity Student 🇺🇸</h2>
 
 ###
 
@@ -15,21 +15,34 @@
 
 ###
 
+<h3 align="left">💻 Tecnologias que utilizo | Technologies I work with:</h3>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
 </div>
+
+###
+
+<h3 align="left">🎓 Certificações | Certifications:</h3>
+
+<ul>
+  <li>5G Technology Fundamentals</li>
+  <li>Amazon AWS Cloud Practitioner</li>
+  <li>Google Cybersecurity Professional Certificate</li>
+  <li>LGPD (Lei Geral de Proteção de Dados)</li>
+</ul>
 
 ###
 
