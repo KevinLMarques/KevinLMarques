@@ -39,7 +39,7 @@
 
 <ul>
   <li>5G Technology Fundamentals by Huawei</li>
-  <li>Amazon AWS Cloud Practitioner by amazon</li>
+  <li>Amazon AWS Cloud Practitioner by Amazon</li>
   <li>Google Cybersecurity Professional Certificate by Coursera</li>
   <li>LGPD (Lei Geral de Proteção de Dados) by Fundação Bradesco</li>
 </ul>
