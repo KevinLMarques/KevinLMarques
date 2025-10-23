@@ -14,7 +14,10 @@
 
 ###
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot     Beverage" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="12" />
+ https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966
+ 
 </div>
 ###
 
