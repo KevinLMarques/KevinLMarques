@@ -13,9 +13,9 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />
-
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot     Beverage" width="25" height="25" />
+</div>
 ###
 
 <h3 align="left">💻 Tecnologias que utilizo | Technologies I work with:</h3>
