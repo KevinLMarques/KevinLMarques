@@ -14,7 +14,7 @@
 
 ###
 
-![Café](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />
 
 ###
 
