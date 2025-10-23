@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="rocksap.png"  />
+![Café](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ###
 
