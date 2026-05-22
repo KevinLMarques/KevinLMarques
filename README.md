@@ -60,7 +60,7 @@ Aqui estão alguns dos meus projetos mais significativos:
 
 - **[Rocksaps](https://github.com/KevinLMarques/Rocksaps)** — Um site fictício de bandas de Rock.  
   🔗 [Código](https://github.com/KevinLMarques/Rocksaps) | 🌐 [Site](https://kevinlmarques.github.io/Rocksaps/)
-- **[Monitor de Estudos](https://github.com/KevinLMarques/Rocksaps)** — Um monitor que acompanha o rendimento e progresso de estudos para um objetivo, implementado com um Banco de Dados SQL
+- **[Monitor de Estudos]((https://github.com/KevinLMarques/Monitor-de-Estudos))** — Um monitor que acompanha o rendimento e progresso de estudos para um objetivo, implementado com um Banco de Dados SQL
   🔗 🌐 [Site](https://studytrackergmf.netlify.app/)
 
 
